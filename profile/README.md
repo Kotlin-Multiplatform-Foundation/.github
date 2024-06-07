@@ -1,6 +1,8 @@
 # Kotlin Multiplatform Foundation - [@hoc081098](https://github.com/hoc081098)
 Kotlin Multiplatform Solutions and Development 📱iOS & Android Mobile Application Development 🔝Kotlin Multiplatform technology experts
 
+> Kotlin Multiplatform Foundation is not affiliated with, endorsed by, or sponsored by JetBrains or the Kotlin Foundation.
+
 <br>
 
 <p align="center">
